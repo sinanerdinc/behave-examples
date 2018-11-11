@@ -1,8 +1,12 @@
 # info
-Python Behave Examples for my presentation
+Python Behave Examples for my presentations
 
 # install
+```
 pip install -r requirements.txt
+```
 
 # run
+```
 behave --junit features
+```
