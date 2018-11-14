@@ -15,3 +15,4 @@ Feature: Sayfaların başarıyla açılıp açılmadığını kontrol eder.
       | https://httpbin.org/status/200       | 200         |
       | https://httpbin.org/status/300       | 300         |
       | https://httpbin.org/status/404       | 404         |
+
